@@ -1,0 +1,758 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valu",
+				"value\tabc"
+			],
+			[
+				"tem",
+				"template\tabc"
+			],
+			[
+				"conte",
+				"context_dict\tabc"
+			],
+			[
+				"nav",
+				"navbar\tabc"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"bas",
+				"basic_app\t(views.py)"
+			],
+			[
+				"TEMP",
+				"TEMPLATES_DIR\tabc"
+			],
+			[
+				"BAS",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"User",
+				"User\tclass"
+			],
+			[
+				"all",
+				"all_clean_data\tabc"
+			],
+			[
+				"form",
+				"forms\tabc"
+			],
+			[
+				"TEMPL",
+				"TEMPLATE_DIR\tabc"
+			],
+			[
+				"fake",
+				"fake_last_name\tabc"
+			],
+			[
+				"fake_",
+				"fake_first_name\tabc"
+			],
+			[
+				"fak",
+				"fakegen\tabc"
+			],
+			[
+				"path",
+				"path('blog\tabc"
+			],
+			[
+				"view",
+				"views\tabc"
+			],
+			[
+				"vie",
+				"views\t(views.py)"
+			],
+			[
+				"user",
+				"user_dict\tabc"
+			],
+			[
+				"Us",
+				"USER"
+			],
+			[
+				"T",
+				"TEMPLATE_DIR\tabc"
+			],
+			[
+				"acc",
+				"access_records"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"date",
+				"date_dict\tabc"
+			],
+			[
+				"web",
+				"webpages_list\tabc"
+			],
+			[
+				"Acc",
+				"AccessRecord〔module〕"
+			],
+			[
+				"first_",
+				"first_Django_project\t(settings.py)"
+			],
+			[
+				"add",
+				"add_topic\tabc"
+			],
+			[
+				"top",
+				"top_name\t(models.py)"
+			],
+			[
+				"adm",
+				"admin\tabc"
+			],
+			[
+				"__",
+				"__str__\tabc"
+			],
+			[
+				"max",
+				"max_length\tabc"
+			],
+			[
+				"mod",
+				"model\tabc"
+			],
+			[
+				"model",
+				"models\tabc"
+			],
+			[
+				"STA",
+				"STATIC_DIR\tabc"
+			],
+			[
+				"pa",
+				"path\tabc"
+			],
+			[
+				"lowe",
+				"lower\tabc"
+			],
+			[
+				"end",
+				"end_other\tabc"
+			],
+			[
+				"str",
+				"stringBits\tabc"
+			],
+			[
+				"arr",
+				"arrayCheck([1\tabc"
+			],
+			[
+				"num",
+				"nums\tabc"
+			],
+			[
+				"abd",
+				"abd〔function〕"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"sim",
+				"simple_key\tabc"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"app",
+				"append\tabc"
+			],
+			[
+				"my",
+				"my_income\tabc"
+			],
+			[
+				"undede",
+				"undefined\t: object Global"
+			],
+			[
+				"ret",
+				"return\tabc"
+			],
+			[
+				"back",
+				"background\t = 'initial' Style CSS"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"conta",
+				"container\t(Part1_MyDocument.html)"
+			],
+			[
+				"turn",
+				"turnBlue\t(Part1_MyDocument.html)"
+			],
+			[
+				"togg",
+				"toggleClass〔function〕"
+			],
+			[
+				"tog",
+				"toggleClass〔function〕"
+			],
+			[
+				"inp",
+				"input\t(Part1_MyDocument.html)"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"con",
+				"cellOne\tabc"
+			],
+			[
+				"ce",
+				"cellOne\tabc"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"a",
+				"aSmile\tabc"
+			],
+			[
+				"cons",
+				"console.log\tabc"
+			],
+			[
+				"co",
+				"console.log\tabc"
+			],
+			[
+				"lo",
+				"log\tabc"
+			],
+			[
+				"wei",
+				"weightInLbs\tabc"
+			],
+			[
+				"pro",
+				"prompt\t(practice1.js)"
+			],
+			[
+				"btn-",
+				"btn-lg\t(Part1_Buttons.html)"
+			],
+			[
+				"tex",
+				"text-align\t(CSS_Level_Two_Spectrum.css)"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"ta",
+				"table\tTag"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"texrt",
+				"text-decoration\tabc"
+			],
+			[
+				"dec",
+				"text-decoration\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"lin",
+				"line-through\ttext-decoration"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"spa",
+				"span\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"rg",
+				"rgba()\tcolor"
+			],
+			[
+				"req",
+				"required\tabc"
+			],
+			[
+				"radio",
+				"radioNO\tabc"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"in",
+				"input\tabc"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"m",
+				"my_form"
+			],
+			[
+				"Pro",
+				"ProductForm"
+			],
+			[
+				"cre",
+				"product_create_view"
+			],
+			[
+				"Prd",
+				"ProductForm"
+			],
+			[
+				"Prod",
+				"Product"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"home",
+				"home_view"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Configuration"
+			],
+			[
+				"install package con",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/django_level_five/learning_users"
+	],
+	"file_history":
+	[
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/django_level_four/learning_template/basic_app/template_tags/__init__.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/django_level_four/learning_template/templates/basic_app/index.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/django_level_four/learning_template/templates/basic_app/other.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/django_level_four/learning_template/learning_template/urls.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/django_level_four/learning_template/basic_app/urls.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/django_level_four/learning_template/basic_app/views.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/django_level_four/learning_template/templates/basic_app/relative_url_templates.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/django_level_four/learning_template/learning_template/settings.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/django_level_four/learning_template/templates/basic_app/base.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/third_project/third_project/thirdapp/models.py",
+		"/Users/abdullahshakir/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/abdullahshakir/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/Level_three_project/basicforms/basicforms/settings.py",
+		"/Users/abdullahshakir/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/abdullahshakir/Library/Application Support/Sublime Text 3/Packages/Material Theme/Preferences.sublime-settings",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/third_project/third_project/templates/thirdapp/users.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/third_project/third_project/third_project/settings.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/third_project/third_project/templates/third_app/index.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/firstDjango/first_project/first_Django_project/first_Django_project/settings.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/firstDjango/first_project/first_Django_project/first_app/urls.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/firstDjango/first_project/first_Django_project/static/CSS/mystyle.css",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/firstDjango/first_project/first_Django_project/first_app/views.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/firstDjango/first_project/first_Django_project/first_app/admin.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/firstDjango/first_project/first_Django_project/populate_first_app.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/django1/firstDjango/first_project/first_Django_project/first_app/models.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/Python_Level_One/Part2_Strings.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/Python_Level_One/Part3_Lists.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/Python_Level_One/Part5_Tuples_Sets_Booleans.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/Python_Level_One/Part8_Functions.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/jQuery/Part1_MyDocument.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/jQuery/myscript.js",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/jQuery/untitled",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/Document_Object_Model/Part1_MainPage.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/JavaScript_Level_One/JSLevel2",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/JavaScript_Level_One/part8_practice.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/JavaScript_Level_One/Part8_Loops_Exercise.js",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/JavaScript_Level_One/practice1.js",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/JavaScript_Level_One/practice1.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/JavaScript_Level_One/Part3_Exercise.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/JavaScript_Level_One/part3_practice.js",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/Capstone_Project_One/landing.css",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_Two/spectrum_project.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_Two/spectrum_project.css",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_Two/CSS_Level_Two_Spectrum.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/HTML_Level_Two/html-project",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_Two/practice.css",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_Two/practice.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_Two/Part1_Fonts.css",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_Two/Part1_Fonts.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_One/CSS_Level_One_Assessment.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_One/CSS_Level_One_Assessment.css",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_One/css_practice_part3.css",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_One/css_practice_part1.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_One/css_practice_part2.css",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_One/css_practice_part1.css",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_One/css_practice.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_One/Part2.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/CSS_Level_One/Part1_master.css",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/HTML_Level_Two/Level_two_practice_Part2.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/HTML_Level_Two/HTML_Level_Two_Assessment.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/HTML_Level_Two/thankyou.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/HTML_Level_Two/Part6_Forms_Selections.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/HTML_Level_Two/DHTML",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/HTML_Level_Two/Level_two_practice_Part1.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/HTML_Level_Two/untitled",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/HTML_Level_One/HTML/test.py",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/HTML_Level_One/Part1_html_basics.html",
+		"/Users/abdullahshakir/Desktop/Django_udemy/DJANGO_COURSE_1.xx/HTML_Level_One/HTML_Level_One_Assessment.html",
+		"/Users/abdullahshakir/Dev/trydjango/src/products/templates/products/product_create.html",
+		"/Users/abdullahshakir/Dev/trydjango/src/products/models.py",
+		"/Users/abdullahshakir/Dev/trydjango/src/templates/about.html",
+		"/Users/abdullahshakir/Dev/trydjango/src/templates/home.html",
+		"/Users/abdullahshakir/Dev/trydjango/src/pages/views.py",
+		"/Users/abdullahshakir/Dev/trydjango/src/trydjango/urls.py",
+		"/Users/abdullahshakir/Dev/trydjango/src/products/admin.py",
+		"/Users/abdullahshakir/Dev/trydjango/src/templates/product/detail.html",
+		"/Users/abdullahshakir/Dev/trydjango/src/products/forms.py",
+		"/Users/abdullahshakir/Dev/trydjango/src/products/templates/products/product_details.html",
+		"/Users/abdullahshakir/Dev/trydjango/src/products/views.py",
+		"/Users/abdullahshakir/Dev/trydjango/src/templates/contact.html",
+		"/Users/abdullahshakir/Dev/trydjango/src/templates/navbar.html",
+		"/Users/abdullahshakir/Dev/trydjango/src/templates/unabout.html",
+		"/Users/abdullahshakir/Dev/trydjango/src/trydjango/settings.py",
+		"/Users/abdullahshakir/Dev/trydjango/src/products/migrations/0001_initial.py",
+		"/Users/abdullahshakir/Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/microsoft excel_Rules.xml",
+		"/Users/abdullahshakir/Desktop/NMR-project/WQ373.las",
+		"/Volumes/ABDULLAH-1/WQ1-352_8.5''_Client CD/Run 2_3 CMR/LAS/WQ1-352_Run2-3_CMR_046CUP_Mishrif_main.las",
+		"/Volumes/ABDULLAH-1/WQ1-352_8.5''_Client CD/Run 2_3 CMR/LAS/WQ1-352_Run2-3_CMR_042CUP_Zubair_repeat.las",
+		"/Volumes/ABDULLAH-1/WQ1-352_8.5''_Client CD/Run 2_3 CMR/LAS/WQ1-352_Run2-3_CMR_040CUP_Zubair_main.las",
+		"/Users/abdullahshakir/Downloads/sublime_test.py",
+		"/Users/abdullahshakir/Downloads/coordinates.json",
+		"/Users/abdullahshakir/abdullah,yaqoob,hirz.txt",
+		"/Users/abdullahshakir/Downloads/rate prediection/prod.csv",
+		"/Users/abdullahshakir/Downloads/rate prediection/prod.txt",
+		"/Users/abdullahshakir/Desktop/bhp.csv",
+		"/Users/abdullahshakir/Desktop/untitled",
+		"/Users/abdullahshakir/Desktop/abd.py"
+	],
+	"find":
+	{
+		"height": 150.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 112.0
+	},
+	"input":
+	{
+		"height": 112.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 163.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 220.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
