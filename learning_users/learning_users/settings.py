@@ -141,6 +141,7 @@ MEDIA_ROOT= MEDIA_DIR
 
 LOGIN_URL = '/basic_app/user_login/'
 
-
+def hello():
+    print('hello')
 
 
